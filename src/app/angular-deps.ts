@@ -1,0 +1,14 @@
+import '@angular/common';
+import '@angular/compiler';
+import '@angular/core';
+import '@angular/http';
+import '@angular/router';
+import '@angular/platform-browser';
+import '@angular/platform-browser-dynamic';
+import '@angular/forms';
+import '@angular/elements';
+import 'rxjs';
+import 'tslib/tslib';
+import 'zone.js/dist/zone';
+import 'core-js/es6/reflect';
+import 'core-js/es7/reflect';
